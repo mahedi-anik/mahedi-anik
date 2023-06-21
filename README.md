@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/in/mahedi-anik-2077b9200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/mahedi-anik-2077b9200" height="30" width="40" /></a>
 <a href="https://fb.com/mahedi.anik.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahedi.anik.52" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mahedi_aniik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahedi_aniik/" height="30" width="40" /></a>
+<a href="https://instagram.com/mahedi_aniik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahedi_aniik/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
